@@ -2,6 +2,7 @@
 pdepe solver code on MATLAB for an LG MJ1 cell
 
 pdex1bc.m provides the solver with the boundary conditions
+
 pdex1ic.m provides the solver with initial conditions
 
 pdex1pde.m provides the solver with the current, end time and heat power generation per unit volume per unit thermal conductivity for the three cases
